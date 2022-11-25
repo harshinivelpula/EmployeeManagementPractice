@@ -11,8 +11,14 @@
             //DailyEmployeeWage dailyEmployeeWage = new DailyEmployeeWage();
             //DailyEmployeeWage.DailyWage();
             //Console.ReadKey();
-            Case Case = new Case();
-            Case.CaseStatement();
+            //Case Case = new Case();
+            //Case.CaseStatement();
+            //Console.ReadKey();
+            //WageForMonth wageForMonth = new WageForMonth();
+            //WageForMonth.MonthlyWage();
+            //Console.ReadKey();
+            Condition condition = new Condition();
+            Condition.WageTill();
             Console.ReadKey();
         }
     }
