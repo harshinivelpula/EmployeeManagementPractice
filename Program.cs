@@ -20,8 +20,11 @@
             //Condition condition = new Condition();
             //Condition.WageTill();
             //Console.ReadKey();
-            Refactor.ComputeEmpWage();
+            //Refactor.ComputeEmpWage();
+            //Console.ReadKey();
+            MultipleCompany.computeEmpWage();
             Console.ReadKey();
+
         }
     }
 }
