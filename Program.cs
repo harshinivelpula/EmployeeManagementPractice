@@ -8,8 +8,11 @@
             //EmployeeSalary EmployeeSalary = new EmployeeSalary();
             //EmployeeSalary.EmployeeAttendance();
             //Console.ReadKey();
-            DailyEmployeeWage dailyEmployeeWage = new DailyEmployeeWage();
-            DailyEmployeeWage.DailyWage();
+            //DailyEmployeeWage dailyEmployeeWage = new DailyEmployeeWage();
+            //DailyEmployeeWage.DailyWage();
+            //Console.ReadKey();
+            Case Case = new Case();
+            Case.CaseStatement();
             Console.ReadKey();
         }
     }
