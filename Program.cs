@@ -22,8 +22,14 @@
             //Console.ReadKey();
             //Refactor.ComputeEmpWage();
             //Console.ReadKey();
-            MultipleCompany.computeEmpWage();
-            Console.ReadKey();
+            //MultipleCompany.computeEmpWage();
+            //Console.ReadKey();
+            save dMart = new save("DMart", 20, 2, 10);
+            save reliance = new save("Reliance", 10, 4, 20);
+            dMart.computeEmpWage();
+            Console.WriteLine(dMart.toString());
+            reliance.computeEmpWage();
+            Console.WriteLine(reliance.toString());
 
         }
     }
