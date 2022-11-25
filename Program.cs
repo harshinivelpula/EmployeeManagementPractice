@@ -17,8 +17,10 @@
             //WageForMonth wageForMonth = new WageForMonth();
             //WageForMonth.MonthlyWage();
             //Console.ReadKey();
-            Condition condition = new Condition();
-            Condition.WageTill();
+            //Condition condition = new Condition();
+            //Condition.WageTill();
+            //Console.ReadKey();
+            Refactor.ComputeEmpWage();
             Console.ReadKey();
         }
     }
